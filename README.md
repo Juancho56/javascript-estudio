@@ -12,3 +12,9 @@ https://jsfiddle.net/JuanP/hznj51k6/3/
 
 Nested scope
 https://jsfiddle.net/JuanP/tj5o0jaq/
+
+The call stack
+https://jsfiddle.net/JuanP/tj5o0jaq/1/
+
+base and exponent
+https://jsfiddle.net/JuanP/tj5o0jaq/2/
