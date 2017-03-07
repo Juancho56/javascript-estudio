@@ -18,3 +18,6 @@ https://jsfiddle.net/JuanP/tj5o0jaq/1/
 
 base and exponent
 https://jsfiddle.net/JuanP/tj5o0jaq/2/
+
+pikachu
+https://jsfiddle.net/JuanP/qj3usjgb/3/
