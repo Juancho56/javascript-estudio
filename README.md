@@ -22,5 +22,14 @@ https://jsfiddle.net/JuanP/tj5o0jaq/2/
 pikachu
 https://jsfiddle.net/JuanP/qj3usjgb/3/
 
-
+Ejemplo
 https://jsfiddle.net/JuanP/v0df62gk/7/
+
+Minimum
+https://jsfiddle.net/xo1q788z/
+
+Recursion
+https://jsfiddle.net/xo1q788z/1/
+
+Bean counting
+https://jsfiddle.net/xo1q788z/2/
