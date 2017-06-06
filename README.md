@@ -33,3 +33,7 @@ https://jsfiddle.net/xo1q788z/1/
 
 Bean counting
 https://jsfiddle.net/xo1q788z/2/
+
+Closure
+https://jsfiddle.net/xo1q788z/5/
+https://jsfiddle.net/xo1q788z/4/
